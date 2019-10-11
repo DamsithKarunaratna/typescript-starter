@@ -1,0 +1,20 @@
+{
+  "name": "typescript-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DamsithKarunaratna/typescript-starter.git"
+  },
+  "keywords": [],
+  "author": "DamsithKarunaratna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DamsithKarunaratna/typescript-starter/issues"
+  },
+  "homepage": "https://github.com/DamsithKarunaratna/typescript-starter#readme"
+}
